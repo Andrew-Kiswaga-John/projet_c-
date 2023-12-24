@@ -1,0 +1,48 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>logo.jpeg</file>
+        <file>back.gif</file>
+        <file>blank.gif</file>
+        <file>cards/00_Hearts.gif</file>
+        <file>cards/01_Hearts.gif</file>
+        <file>cards/02_Hearts.gif</file>
+        <file>cards/03_Hearts.gif</file>
+        <file>cards/04_Hearts.gif</file>
+        <file>cards/05_Hearts.gif</file>
+        <file>cards/06_Hearts.gif</file>
+        <file>cards/07_Hearts.gif</file>
+        <file>cards/08_Hearts.gif</file>
+        <file>cards/09_Hearts.gif</file>
+        <file>cards/00_Diamonds.gif</file>
+        <file>cards/01_Diamonds.gif</file>
+        <file>cards/02_Diamonds.gif</file>
+        <file>cards/03_Diamonds.gif</file>
+        <file>cards/04_Diamonds.gif</file>
+        <file>cards/05_Diamonds.gif</file>
+        <file>cards/06_Diamonds.gif</file>
+        <file>cards/07_Diamonds.gif</file>
+        <file>cards/08_Diamonds.gif</file>
+        <file>cards/09_Diamonds.gif</file>
+        <file>cards/00_Clubs.gif</file>
+        <file>cards/01_Clubs.gif</file>
+        <file>cards/02_Clubs.gif</file>
+        <file>cards/03_Clubs.gif</file>
+        <file>cards/04_Clubs.gif</file>
+        <file>cards/05_Clubs.gif</file>
+        <file>cards/06_Clubs.gif</file>
+        <file>cards/07_Clubs.gif</file>
+        <file>cards/08_Clubs.gif</file>
+        <file>cards/09_Clubs.gif</file>
+        <file>cards/00_Spades.gif</file>
+        <file>cards/01_Spades.gif</file>
+        <file>cards/02_Spades.gif</file>
+        <file>cards/03_Spades.gif</file>
+        <file>cards/04_Spades.gif</file>
+        <file>cards/05_Spades.gif</file>
+        <file>cards/06_Spades.gif</file>
+        <file>cards/07_Spades.gif</file>
+        <file>cards/08_Spades.gif</file>
+        <file>cards/09_Spades.gif</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+</RCC>
